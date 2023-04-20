@@ -1,0 +1,93 @@
+.back{
+    background-color: aliceblue;
+}
+.navbar-expand-lg .navbar-nav {
+    flex-direction: column;
+  }
+.row{
+    width: 100%;
+}
+.sompad{
+    padding-top: 20px;
+}
+.header{
+    height:150px;
+}
+.header h2{
+    margin-top: 50px;
+}
+.shift{
+    margin-left: 15px;
+}
+.pad{
+    padding-bottom: 30px;
+}
+.thinkpad{
+    padding-top: 10px;
+}
+.rad{
+    border-radius: 30%;
+}
+.virgil{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.rock{
+    margin-left: 10px;
+}
+h4{
+    font-family: 'Noto Serif Hebrew', serif;
+    font-size: 26px;
+}
+.header h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.worktitle{
+    padding-top: 30px;
+    padding-bottom: 30px;;
+}
+.cited{
+    padding-bottom: 20px;
+}
+.headmap{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.headmap h2{
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.map{
+    border-radius: 5%;
+}
+.maprow{
+    height:750px;
+    background-color: rgb(204, 223, 227);
+}
+.hello{
+    height:90px;
+    width:350px;
+    background-color: black;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.hello h2{
+    color:white;
+}
+.blah{
+    padding-bottom: 60px;
+}
+.blah2{
+    padding-top:20px;
+}
+.hello h2{
+    font-family: 'Open Sans', sans-serif;
+}
+.out{
+    height: 150px;
+}
+.move{
+    margin-top: 60px;
+}
