@@ -91,3 +91,46 @@ h4{
 .move{
     margin-top: 60px;
 }
+table, tr,td{
+    border:2px solid;
+}
+.tabl{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+th,td{
+    padding: 10px;
+}
+.quotes{
+    background-color: #0073b5;
+    border-radius:150px 0px 0px 150px ;
+}
+.move{
+    padding-right: 40px;
+}
+.drop{
+    margin-top: 70px;
+}
+.quotes h3{
+    padding-bottom: 15px;
+    margin-left: 55px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    color: aliceblue;
+}
+.quotes h5{
+    margin-left: 20px;
+    color: aliceblue;
+}
+.drop2{
+    margin-top: 40px;
+}
+i{
+    opacity: 0.8;
+}
+p{
+    font-size:18px;
+}
+iframe{
+padding-top: 10px;
+}
